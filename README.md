@@ -1,2 +1,2 @@
-# izaanaamir.github.io
-Personal Website
+# Izaan Aamir
+My website
